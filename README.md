@@ -6,15 +6,15 @@
 
 https://litcicada.github.io/showsite/
 
-# My Blog
+# Lit Cicada
 
 
 _powered by [fastpages](https://github.com/fastai/fastpages)_
 
 
-## What To Do Next?
+## What's all this about?
 
-Great!  You have setup your repo.  Now its time to start writing content.  Some helpful links:
+You probably found this either by way of a [Cicada3301](https://iamcicada.com)-adjacent rabbit-hole, or else you've come from the show or podcast and already know what's going on here.
 
 - [Writing Blogs With Jupyter](https://github.com/fastai/fastpages#writing-blog-posts-with-jupyter)
 
